@@ -734,4 +734,5 @@ async def on_ready():
     await bot.tree.sync()
     print(f"✅ Bot đã online: {bot.user}")
 
-bot.run("MTM3NzEyODgxMjA4MDI3MTQwMA.Gxt77A.6T17cAVbSKwbZcx1nf1bdVTVi1Cop58nb_BPGo")
+TOKEN = "MTM3NzEyODgxMjA4MDI3MTQwMA.GItxcI.qxSpJ1eCoVjP8-E5krdyi01uCswsfQyqmlRMjc"
+bot.run(TOKEN)
