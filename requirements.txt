@@ -1,1 +1,1 @@
-random && pytz && requests && io && discord
+discord.py==2.3.2
