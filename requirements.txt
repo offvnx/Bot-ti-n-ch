@@ -1,0 +1,14 @@
+py-cord==2.4.1
+requests
+pytz
+Pillow
+pycryptodome
+munch
+colorama
+pyfiglet
+schedule
+websockets
+qrcode
+pycountry
+bs4
+aiohttp
